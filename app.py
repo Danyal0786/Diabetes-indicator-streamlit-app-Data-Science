@@ -17,7 +17,7 @@ st.set_page_config(
 html_temp = """
 		<div style="background-color:#3872fb;padding:10px;border-radius:10px">
 		<h1 style="color:white;text-align:center;">Early Stage DM Risk Data App </h1>
-		<h4 style="color:white;text-align:center;">Diabetes </h4>
+		<h4 style="color:white;text-align:center;">"Diabetes is not curable. It's sustainable"</h4>
 		</div>
 		"""
 # -------------------------------------------------------------------------------------
